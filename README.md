@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Hadi
 #### Design and Development
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design and Development]
 
 I'm MD. Abdul Hadi. I'm a newbie at Web design and Development. I'm still learning. I'll upload my personal projects and maybe some usefull codes.
 
