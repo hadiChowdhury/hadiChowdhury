@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Hadi
 #### Design and Development
-![Design and Development]
+![Design and Development](https://github.com/hadiChowdhury/hadiChowdhury/blob/main/20221006_123055.jpg)
 
 I'm MD. Abdul Hadi. I'm a newbie at Web design and Development. I'm still learning. I'll upload my personal projects and maybe some usefull codes.
 
