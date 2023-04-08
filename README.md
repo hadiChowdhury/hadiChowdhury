@@ -1,6 +1,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadiChowdhury&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadiChowdhury&show_icons=true&theme=transparent)
+
 
 # Hi there 👋, I'm Hadi
 I'm MD. Abdul Hadi. I'm a newbie at Web design and Development. I'm still learning. I'll upload my personal projects and maybe some usefull codes.
