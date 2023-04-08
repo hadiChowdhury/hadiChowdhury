@@ -14,6 +14,6 @@ I'm MD. Abdul Hadi. I'm a newbie at Web design and Development. I'm still learni
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=hadiChowdhury&show_icons=true&theme=radical"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadiChowdhury&show_icons=true&theme=radical)
 
