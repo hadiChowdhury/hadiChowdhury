@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadiChowdhury&show_icons=true&theme=radical)
+
 
 
 # Hi there 👋, I'm Hadi
@@ -15,6 +15,5 @@ I'm MD. Abdul Hadi. I'm a newbie at Web design and Development. I'm still learni
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hadiChowdhury)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_avoidshihab/)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadiChowdhury&show_icons=true&theme=radical)
 
