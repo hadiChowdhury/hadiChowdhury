@@ -1,11 +1,10 @@
-
-
-
-
 # Hi there 👋, I'm Hadi
-I'm MD. Abdul Hadi. I'm a newbie at Web design and Development. I'm still learning. I'll upload my personal projects and maybe some usefull codes.
+I'm MD. Abdul Hadi. I'm a newbie at Web design and Development. I'm still learning. I'll upload my personal projects and maybe some useful codes.
 
 ## Skills and Experience 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Zeuz](https://img.shields.io/badge/Zeuz-009688?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIvPg==)
+![SQA](https://img.shields.io/badge/SQA-4CAF50?style=for-the-badge&logo=testing-library&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -15,5 +14,3 @@ I'm MD. Abdul Hadi. I'm a newbie at Web design and Development. I'm still learni
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=hadiChowdhury&show_icons=true&theme=radical"/>
-
-
