@@ -26,6 +26,3 @@ I'm MD. Abdul Hadi Chowdhury — a Master's student in Computer Science at Memor
 
 ## 📌 Featured Project
 - **[Brain Tumor Segmentation](https://github.com/YourUsername/Brain_Tumor_Segmentation)** — Team project applying image segmentation techniques to medical imaging data.
-
-## 📫 Reach Me
-- 📸 Instagram / YouTube — personal growth & mindset content
